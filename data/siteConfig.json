@@ -1,0 +1,157 @@
+{
+  "brandName": "Rahul",
+  "navCtaText": "Get started",
+  "navCtaLink": "contact",
+  "navItem1Text": "Featured Projects",
+  "navItem2Text": "Recent Work",
+  "navItem3Text": "Testimonials",
+  "heroBadge": "Portfolio & Creative Showcase",
+  "heroHeading": "Hi, I'm Rahul Dutta.\nDesigning the future of web.",
+  "heroSubheading": "Rahul is a multidisciplinary Product Designer and Frontend Engineer who designs and crafts high-fidelity digital interfaces, persistent design systems, and fluid modern user experiences.",
+  "heroButtonText": "Get in touch",
+  "editorialRole": "Independent Product Designer",
+  "editorialHeading": "Crafting digital experiences with ultimate precision.",
+  "editorialStatExperience": "4+ Years of Industry Experience",
+  "editorialStatDescription": "Over 17+ projects designed, hand-coded, and launched globally since 2020.",
+  "editorialTagsTop": [
+    "UX Research",
+    "UI Design",
+    "Mobile Application",
+    "MVP Design"
+  ],
+  "editorialTagsBottom": [
+    "Figma",
+    "React",
+    "Tailwind CSS",
+    "Framer Motion"
+  ],
+  "editorialProfilePic": "",
+  "futureProjectsBadge": "Featured Projects",
+  "futureProjectsHeading": "Featured Projects",
+  "futureProjectsSubheading": "(Concepts & Vision)",
+  "futureProjectsDescription": "A curated collection of featured platforms, intuitive communication tools, and local-first software concepts that bridge the gap between design and high-performance frontend engineering.",
+  "futureProjectsButtonText": "View all work",
+  "futureProjectsButtonLink": "projects",
+  "disciplinesBadge": "Disciplines",
+  "disciplinesHeading": "What I do?",
+  "disciplinesSubheading": "Core Capabilities",
+  "disciplinesDescription": "A breakdown of my engineering-rooted product design methodology, blending visual clarity with systematic code execution.",
+  "disciplinesTagsTop": [
+    "Illustration",
+    "Presentation",
+    "Typography",
+    "Branding"
+  ],
+  "disciplinesTagsBottom": [
+    "Art Direction",
+    "Layout",
+    "Logo Design",
+    "UI Design"
+  ],
+  "credentialsBadge": "Credentials",
+  "credentialsHeading": "Where I've worked",
+  "credentialsDescription": "A chronological timeline of my design and development journey, academic highlights, and verified industry credentials.",
+  "recentWorkBadge": "Recent Work",
+  "recentWorkHeading": "Selected Works",
+  "recentWorkSubheading": "Interactive Projects",
+  "recentWorkDescription": "A showcase of high-fidelity client applications, local-first architectures, and production ready interfaces.",
+  "servicesBadge": "My Expertise",
+  "servicesHeading": "Services",
+  "servicesSubheading": "What I Offer",
+  "servicesDescription": "Tailored visual design, scalable interface engineering, and interactive prototype delivery.",
+  "reviewsBadge": "Reviews",
+  "reviewsHeading": "What clients say",
+  "reviewsSubheading": "Kind Words",
+  "reviewsDescription": "Direct testimonials from engineering directors, principal developers, and agency stakeholders.",
+  "ctaDevLabel": "01 / OPEN SOURCE CODE",
+  "ctaDevTitle": "For Developers",
+  "ctaDevDesc": "Get started with our lightweight Go compiler, spin up multi-agent networks in minutes, and trace prompts with real-time telemetry logs cleanly.",
+  "ctaDevBtnText": "Download CLI Node",
+  "ctaDevBtnUrl": "contact",
+  "ctaOrgLabel": "02 / SECURED PIPELINE",
+  "ctaOrgTitle": "For Organizations",
+  "ctaOrgDesc": "Deploy secure, sandboxed sub-agents at scale. Integrate Gemini 2.5 Flash context caches, multi-user sync protocols, and enterprise security standards.",
+  "ctaOrgBtnText": "Request Enterprise Access",
+  "ctaOrgBtnUrl": "contact",
+  "reviewsStat1Number": "100+",
+  "reviewsStat1Label": "design projects completed.",
+  "reviewsStat2Number": "100%",
+  "reviewsStat2Label": "Client satisfaction rate.",
+  "reviewsStat3Number": "40+",
+  "reviewsStat3Label": "Happy Clients",
+  "bottomCtaHeading": "Let's build \nsomething incredible \ntogether",
+  "bottomCtaPrimaryBtnText": "Contact Rahul",
+  "bottomCtaPrimaryBtnUrl": "contact",
+  "bottomCtaSecondaryBtnText": "View Solutions",
+  "bottomCtaSecondaryBtnUrl": "projects",
+  "footerHeading": "Experience liftoff",
+  "footerWordmark": "Rahul Dutta",
+  "footerDescription": "UI/UX Product Designer & Frontend Technologist",
+  "footerCol1Links": [
+    {
+      "label": "Download",
+      "url": "#"
+    },
+    {
+      "label": "Product",
+      "url": "#"
+    },
+    {
+      "label": "Docs",
+      "url": "#"
+    },
+    {
+      "label": "Changelog",
+      "url": "#"
+    },
+    {
+      "label": "Press",
+      "url": "#"
+    },
+    {
+      "label": "Releases",
+      "url": "#"
+    }
+  ],
+  "footerCol2Links": [
+    {
+      "label": "Blog",
+      "url": "blog"
+    },
+    {
+      "label": "Pricing",
+      "url": "#"
+    },
+    {
+      "label": "Style Guide",
+      "url": "style-guide"
+    }
+  ],
+  "footerSocialLinks": [
+    {
+      "label": "About Rahul",
+      "url": "#editorial-hero"
+    },
+    {
+      "label": "Fiverr",
+      "url": "https://www.fiverr.com/s/akRBXg8"
+    },
+    {
+      "label": "Behance",
+      "url": "https://www.behance.net/ui-ux-rahul"
+    },
+    {
+      "label": "Linkedin",
+      "url": "https://www.linkedin.com/in/ui-ux-rahul/"
+    }
+  ],
+  "seoDefaultTitle": "Rahul Dutta | Independent Product Designer & Frontend Technologist",
+  "seoDefaultDescription": "Explore Rahul Dutta's portfolio. Specializing in high-fidelity UI/UX product design, interactive React development, Figma design systems, and SEO engineering.",
+  "seoKeywords": "Product Designer, Frontend Engineer, UI/UX Design, React Portfolio, Figma Design System, Web App Developer, Rahul Dutta",
+  "seoGoogleVerification": "google-site-verification-placeholder-key-2026",
+  "seoAnalyticsId": "G-MEASUREMENTID",
+  "seoOgImage": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&h=630&q=80",
+  "seoAuthorName": "Rahul Dutta",
+  "seoAuthorJobTitle": "Independent Product Designer & Frontend Engineer",
+  "seoAuthorSameAs": "https://linkedin.com/in/ui-ux-rahul, https://www.behance.net/ui-ux-rahul, https://www.fiverr.com/s/akRBXg8"
+}

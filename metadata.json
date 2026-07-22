@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio",
+  "description": "A premium offline-first portfolio and creative showcase for Rahul Dutta, Product Designer & Frontend Technologist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
